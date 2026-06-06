@@ -47,8 +47,18 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+<img width="1903" height="967" alt="597937323-573ebc05-e8cd-4add-be03-9831eff1d6ed" src="https://github.com/user-attachments/assets/8a059c5c-55ca-4e40-82e6-0519756e7c57" />
+<img width="1911" height="1028" alt="597937400-46ac0051-f499-46a4-a5e2-19badb2cc19a" src="https://github.com/user-attachments/assets/54de354d-0ba0-46e2-87eb-9ec92e493729" />
+<img width="1917" height="1019" alt="597937460-d10274ad-f7ba-4f92-93e9-3f323c75ead6" src="https://github.com/user-attachments/assets/66a0cf80-6a9c-4cac-983b-5146bbc5a358" />
+
+
+
+
+
+
+### Name:Hemanthkumar M
+### Register Number:212225230100
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
